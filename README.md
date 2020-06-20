@@ -10,5 +10,5 @@ al seleccionar el archivo delimitaciones por coma y asi se ordenara la data.
 Las tablas elaboradas para ese análisis son:
 - Tabla segun edad y sexo por departamento.(Tabla1)
 - Tabla segun provincia y sexo por departamento.(Tabla2)
-- Tabla segun sexo y distrito por departamento y provincia.(Tabla4)
+- Tabla segun sexo y distrito por departamento y provincia.(Tabla3)
 - Comparación de dos tablas segun sexo y metodo por departamento(Tabla4)
