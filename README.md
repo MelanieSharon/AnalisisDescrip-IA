@@ -8,7 +8,7 @@ luego al exportar en excel se debe de seleccionar "Datos-desde texto" se debera 
 al seleccionar el archivo delimitaciones por coma y asi se ordenara la data.
 
 Las tablas elaboradas para ese análisis son:
-- Tabla segun edad y sexo por departamento.
-- Tabla segun provincia y sexo por departamento.
-- Tabla segun sexo y distrito por departamento y provincia.
-- Comparación de dos tablas segun sexo y metodo por departamento
+- Tabla segun edad y sexo por departamento.(Tabla1)
+- Tabla segun provincia y sexo por departamento.(Tabla2)
+- Tabla segun sexo y distrito por departamento y provincia.(Tabla4)
+- Comparación de dos tablas segun sexo y metodo por departamento(Tabla4)
